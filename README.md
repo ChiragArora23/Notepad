@@ -9,5 +9,5 @@ It is having all the funcionalities such as
     >Open
     >Exit
     
-    ![image](https://user-images.githubusercontent.com/38328451/112714257-85f28400-8eff-11eb-86a5-fa23f4567152.png)
+ ![image](https://user-images.githubusercontent.com/38328451/112714257-85f28400-8eff-11eb-86a5-fa23f4567152.png)
 
