@@ -15,6 +15,7 @@ namespace Notepad
     public partial class Form1 : Form
     {
         string path;
+        static int clickCount = 0;
         public Form1()
         {
             InitializeComponent();
@@ -26,6 +27,7 @@ namespace Notepad
         {
             path = string.Empty;
             TextBox.Clear();
+            Form1.clickCount = 0;
         }
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
@@ -74,6 +76,20 @@ namespace Notepad
             Close();
         }
 
-       
+        private void editToolStripMenuItem_Click(object sender, EventArgs e) { }
+
+        private void wordWrapToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TextBox.WordWrap = true;
+            Form1.clickCount += 1;
+
+            if (Form1.clickCount % 2 == 0)
+                TextBox.WordWrap = false;
+
+            TextBox.Refresh();
+
+
+        }
+
     }
 }

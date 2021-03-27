@@ -1,0 +1,10 @@
+F:\Learning\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe.config
+F:\Learning\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe
+F:\Learning\Notepad\Notepad\Notepad\bin\Debug\Notepad.pdb
+F:\Learning\Notepad\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+F:\Learning\Notepad\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+F:\Learning\Notepad\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+F:\Learning\Notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+F:\Learning\Notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+F:\Learning\Notepad\Notepad\Notepad\obj\Debug\Notepad.exe
+F:\Learning\Notepad\Notepad\Notepad\obj\Debug\Notepad.pdb
